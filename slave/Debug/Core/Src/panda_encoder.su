@@ -1,0 +1,4 @@
+../Core/Src/panda_encoder.c:4:23:panda_encoder_init	16	static
+../Core/Src/panda_encoder.c:17:6:panda_encoder_read	16	static
+../Core/Src/panda_encoder.c:32:9:panda_encoder_get_rpm	16	static
+../Core/Src/panda_encoder.c:36:9:panda_encoder_get_speed	32	static

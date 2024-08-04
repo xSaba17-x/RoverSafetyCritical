@@ -1,0 +1,11 @@
+../Core/Src/panda_motor_driver.c:35:6:motor_send_command	1
+../Core/Src/panda_motor_driver.c:42:6:motor_independent_drive_forward	1
+../Core/Src/panda_motor_driver.c:47:6:motor_independent_drive_backward	1
+../Core/Src/panda_motor_driver.c:52:6:motor_mixed_drive_forward	1
+../Core/Src/panda_motor_driver.c:57:6:motor_mixed_drive_backward	1
+../Core/Src/panda_motor_driver.c:62:6:motor_mixed_turn_right	1
+../Core/Src/panda_motor_driver.c:67:6:motor_mixed_turn_left	1
+../Core/Src/panda_motor_driver.c:72:6:motor_independent_stop	1
+../Core/Src/panda_motor_driver.c:77:6:motor_mixed_stop	1
+../Core/Src/panda_motor_driver.c:83:6:motor_mixed_drive	3
+../Core/Src/panda_motor_driver.c:99:6:motor_mixed_turn	3

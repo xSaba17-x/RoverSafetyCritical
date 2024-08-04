@@ -1,0 +1,7 @@
+../Core/Src/panda_comunication.c:30:6:Global_Struct_Master_Init	16	static
+../Core/Src/panda_comunication.c:54:6:Global_Struct_Init	16	static
+../Core/Src/panda_comunication.c:83:6:Global_Struct_Slave_Init	16	static
+../Core/Src/panda_comunication.c:92:19:panda_comunication_init_sync	64	static
+../Core/Src/panda_comunication.c:126:19:panda_comunication_init_checksum	24	static
+../Core/Src/panda_comunication.c:135:19:panda_comunication_validate_checksum	24	static
+../Core/Src/panda_comunication.c:144:6:panda_merge_structs	32	static

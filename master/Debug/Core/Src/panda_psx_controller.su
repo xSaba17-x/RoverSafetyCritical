@@ -1,0 +1,7 @@
+../Core/Src/panda_psx_controller.c:29:19:panda_psx_init	24	static
+../Core/Src/panda_psx_controller.c:38:19:panda_psx_read_gamepad	48	static
+../Core/Src/panda_psx_controller.c:47:6:panda_psx_debug_print	32	static
+../Core/Src/panda_psx_controller.c:63:9:panda_psx_get_command	32	static
+../Core/Src/panda_psx_controller.c:72:9:panda_psx_get_analog_intensity	16	static
+../Core/Src/panda_psx_controller.c:85:19:panda_psx_is_on	16	static
+../Core/Src/panda_psx_controller.c:90:10:panda_psx_is_analog	16	static

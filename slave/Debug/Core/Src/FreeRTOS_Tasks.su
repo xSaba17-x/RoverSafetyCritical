@@ -1,0 +1,7 @@
+../Core/Src/FreeRTOS_Tasks.c:77:6:Encoder	16	static
+../Core/Src/FreeRTOS_Tasks.c:102:6:Battery_Sensor	16	static
+../Core/Src/FreeRTOS_Tasks.c:132:6:Temperature_Sensor	16	static
+../Core/Src/FreeRTOS_Tasks.c:153:6:Comunication	16	static
+../Core/Src/FreeRTOS_Tasks.c:173:6:HAL_I2C_SlaveRxCpltCallback	64	static
+../Core/Src/FreeRTOS_Tasks.c:204:6:Execution	24	static
+../Core/Src/FreeRTOS_Tasks.c:251:6:FreeRTOS_Tasks_Init	32	static

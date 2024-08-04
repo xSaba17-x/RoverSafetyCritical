@@ -1,0 +1,2 @@
+../Core/Src/panda_mpu6050.c:29:23:panda_mpu6050_init	2
+../Core/Src/panda_mpu6050.c:72:6:panda_mpu6050_read	1

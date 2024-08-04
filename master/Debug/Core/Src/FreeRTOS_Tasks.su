@@ -1,0 +1,6 @@
+../Core/Src/FreeRTOS_Tasks.c:90:6:Ultrasound	16	static
+../Core/Src/FreeRTOS_Tasks.c:112:6:Check_Danger	16	static
+../Core/Src/FreeRTOS_Tasks.c:182:6:Psx	16	static
+../Core/Src/FreeRTOS_Tasks.c:282:6:Comunication	16	static
+../Core/Src/FreeRTOS_Tasks.c:303:6:Execution	24	static
+../Core/Src/FreeRTOS_Tasks.c:440:6:FreeRTOS_Tasks_Init	32	static

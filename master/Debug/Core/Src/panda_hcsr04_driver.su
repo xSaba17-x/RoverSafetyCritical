@@ -1,0 +1,4 @@
+../Core/Src/panda_hcsr04_driver.c:33:22:panda_HCSR04_init	32	static
+../Core/Src/panda_hcsr04_driver.c:56:22:panda_HCSR04_callback_evaluations	24	static
+../Core/Src/panda_hcsr04_driver.c:94:22:panda_HCSR04_reset	32	static
+../Core/Src/panda_hcsr04_driver.c:113:10:panda_HCSR04_get_distance	16	static

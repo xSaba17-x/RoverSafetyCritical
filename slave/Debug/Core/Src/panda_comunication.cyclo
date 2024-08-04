@@ -1,0 +1,7 @@
+../Core/Src/panda_comunication.c:30:6:Global_Struct_Master_Init	1
+../Core/Src/panda_comunication.c:54:6:Global_Struct_Init	1
+../Core/Src/panda_comunication.c:83:6:Global_Struct_Slave_Init	1
+../Core/Src/panda_comunication.c:92:19:panda_comunication_init_sync	3
+../Core/Src/panda_comunication.c:126:19:panda_comunication_init_checksum	2
+../Core/Src/panda_comunication.c:135:19:panda_comunication_validate_checksum	3
+../Core/Src/panda_comunication.c:144:6:panda_merge_structs	3
